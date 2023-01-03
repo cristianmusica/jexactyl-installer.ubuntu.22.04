@@ -229,15 +229,15 @@ update_wings(){
 
 update_jexactyl(){
     output "You probably don't even know what's going on."
-    output "There is a litteral command to update Jexactyl."
-    output "Here is the command: php artisan p:upgrade"
+    output "Theres a litteral easy way to upgrade Jexactyl: the docs."
+    output "Here is the docs: https://docs.jexactyl.com/#/latest/panel/updating/manual"
     output "Good luck."
 }
 
 update_both(){
     output "You probably don't even know what's going on."
-    output "There is a litteral command to update Jexactyl."
-    output "Here is the command: php artisan p:upgrade"
+    output "Theres a litteral easy way to upgrade Jexactyl: the docs."
+    output "Here is the docs: https://docs.jexactyl.com/#/latest/panel/updating/manual"
     output "Also for Wings, here's the docs to update Wings: https://pterodactyl.io/wings/1.0/upgrading.html" 
     output "Good luck."
 }
